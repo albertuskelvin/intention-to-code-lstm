@@ -29,7 +29,7 @@ Source Code Generation Based On User Intention Using LSTM Networks
 **A. Experiments**
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/two_experiments.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/two_experiments.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 1. Two experiments conducted in the research
@@ -41,14 +41,14 @@ Source Code Generation Based On User Intention Using LSTM Networks
 **A.1 Problem Type Classification**
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/base_prob_stat.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/base_prob_stat.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 2. Base Problem Statement
   </p>
   <br/>
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/structured_format.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/structured_format.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 3. Structured Format
@@ -58,7 +58,7 @@ Source Code Generation Based On User Intention Using LSTM Networks
 **A.2 Experiment 1**
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/experiment_1_flow.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/experiment_1_flow.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 4. General Working Process of the 1st Experiment
@@ -81,7 +81,7 @@ Source Code Generation Based On User Intention Using LSTM Networks
 **A.3 Experiment 2**
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/experiment_2_flow.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/experiment_2_flow.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 5. General Working Process of the 2nd Experiment
@@ -95,7 +95,7 @@ Source Code Generation Based On User Intention Using LSTM Networks
   </p>
   <br/>
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/listofprobidx.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/listofprobidx.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 6. List of minimum and maximum index for each problem
@@ -122,14 +122,14 @@ Source Code Generation Based On User Intention Using LSTM Networks
     </p>
   <br/>
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/nl_samples_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/nl_samples_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 7. Structured format of the training data of the 1st problem
   </p>
   <br/>
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/nl_samples_2.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/nl_samples_2.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 8. Structured format of the training data of the 2nd problem
@@ -152,14 +152,14 @@ appropriate words that can be included In the vocabulary and providing a single 
     </p>
     <br/>
     <p align="center">
-      <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/original_code_samples.png?raw=true"/>
+      <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/original_code_samples.png?raw=true"/>
     </p>
     <p align="center">
       Fig. 9. Code samples in the original format
     </p>
     <br/>
     <p align="center">
-      <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/word_code_samples.png?raw=true"/>
+      <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/word_code_samples.png?raw=true"/>
     </p>
     <p align="center">
       Fig. 10. Code samples in the modified format
@@ -401,7 +401,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Document similarity section:</b>
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_sim_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_sim_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 11. Computing similarity score
@@ -415,7 +415,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Generated code by the Encoder-Decoder model (seed code):</b>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_seed_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_seed_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 12. Seed code generated by the Encoder-Decoder
@@ -429,7 +429,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Final source code (stored in a file):</b>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_fin_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_fin_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 13. Final source code
@@ -455,7 +455,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_sim_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_sim_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 14. Computing Similarity Score
@@ -466,7 +466,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_sim_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_sim_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 15. Computing Similarity Score
@@ -482,7 +482,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_seed_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_seed_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 16. Seed code generated by the Encoder-Decoder
@@ -492,7 +492,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_seed_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_seed_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 17. Seed code generated by the Encoder-Decoder
@@ -508,7 +508,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_fin_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_fin_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 18. Final source code
@@ -518,7 +518,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_ed_fin_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_ed_fin_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 19. Final source code
@@ -543,7 +543,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Document similarity section:</b>
 
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_sim_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_sim_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 20. Computing similarity score
@@ -557,7 +557,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Seed code:</b>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_seed_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_seed_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 21. Seed code generated based on the random index
@@ -571,7 +571,7 @@ These were the specifications of the Encoder-Decoder model training:
   <b>Final source code (stored in a file):</b>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_fin_1.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_fin_1.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 22. Final source code
@@ -597,7 +597,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_sim_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_sim_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 23. Computing similarity score
@@ -608,7 +608,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_sim_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_sim_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 24. Computing similarity score
@@ -624,7 +624,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_seed_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_seed_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 25. Seed code generated based on the random index
@@ -634,7 +634,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_seed_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_seed_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 26. Seed code generated based on the random index
@@ -650,7 +650,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample A
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_fin_2A.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_fin_2A.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 27. Final source code
@@ -660,7 +660,7 @@ These were the specifications of the Encoder-Decoder model training:
   Testing sample B<br/>
   
   <p align="center">
-    <img src ="https://github.com/albertusk95/intention-to-code-lstm/blob/master/assets/img/test_exp02_fin_2B.png?raw=true"/>
+    <img src ="https://github.com/albertuskelvin/intention-to-code-lstm/blob/main/assets/img/test_exp02_fin_2B.png?raw=true"/>
   </p>
   <p align="center">
     Fig. 28. Final source code
